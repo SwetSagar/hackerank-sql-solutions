@@ -4,4 +4,4 @@ This repo contains the solutions to the SQL challenges from [HackerRank](https:/
 
 # Author
 
-[Linkedin](https://www.linkedin.com/in/swet-sagar-87277414a/)
+Swet Sagar @[Linkedin](https://www.linkedin.com/in/swet-sagar-87277414a/)
