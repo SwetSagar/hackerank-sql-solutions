@@ -1,6 +1,6 @@
-# sql_portoflio
+# Hackerrank SQL solutions
 
-In Progress...
+This repo contains the solutions to the SQL challenges from ![hackerrank.com](https://www.hackerrank.com/)
 
 # Author
 
