@@ -1,6 +1,6 @@
 # Hackerrank SQL solutions
 
-This repo contains the solutions to the SQL challenges from [HackerRank](https://hackerrank.com)
+This repo contains the solutions to the SQL challenges from [HackerRank](https://hackerrank.com). Currently sitting at 4 stars, would upload more solutions soon.
 
 ## Index 
 
